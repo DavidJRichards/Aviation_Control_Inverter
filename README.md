@@ -13,7 +13,7 @@
  * UFI
 
 ## Appearance
-[overview](./images/IMG_20231005_200845.jpg) 
+![overview](./images/IMG_20231005_200845.jpg) 
 
 ### [images](./images/README.md)
 
@@ -129,7 +129,7 @@
 
  * 26 Volt,  618 Ohm,  DPCO
 
-![Relays](./images/IMG_20231007_103348.jpg)
+[Relays](./images/IMG_20231007_103348.jpg)
 
  * rly4 - rly3 - rly2 -rly1
 
